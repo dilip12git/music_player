@@ -8,15 +8,6 @@ By focusing solely on locally stored music, Mplayer ensures faster loading times
 # Download Apk
 [**MPlayer.apk**](https://drive.google.com/file/d/1vBA-9GPkU2zd6JckNcznvb73rTNKAVuY/view?usp=sharing)
 
-![Screenshot_2024-08-24-16-33-39-67_b37b10ef74d763bd28f81e911595177f](https://github.com/user-attachments/assets/c3984b09-b12d-4df2-a847-48b01aeee651)
-
-![Screenshot_2024-08-24-16-33-42-99_b37b10ef74d763bd28f81e911595177f](https://github.com/user-attachments/assets/fc02aa0c-1c51-46b8-8d88-b65cf4e0a238)
-
-![Screenshot_2024-08-24-16-33-54-71_b37b10ef74d763bd28f81e911595177f](https://github.com/user-attachments/assets/50445c49-32c7-4e20-852e-63430d858e63)
-
-![Screenshot_2024-08-24-16-33-54-71_b37b10ef74d763bd28f81e911595177f](https://github.com/user-attachments/assets/c2dd9ebb-f53d-4864-a708-a4483f66ed89)
-
-
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
